@@ -1,6 +1,7 @@
 # Java Programming Internship - Codsoft
 
-This repository contains the tasks and projects I completed during my Java Programming Internship at Codsoft from 1st October to 31st October, 2024. Throughout the internship, I worked on five distinct projects, enhancing my skills in Java programming and object-oriented principles. Below is a brief overview of each project:
+This repository contains the tasks and projects I completed during my Java Programming Internship at Codsoft from 1st October to 31st October, 2024. Throughout the internship, I worked on five distinct projects, enhancing my skills in Java programming and object-oriented principles.
+Below is a brief overview of each project:
 
 # 1. Number Game -:
 A simple interactive game where the user guesses a number within a specified range. The program provides hints to guide the player, improving user experience and engagement.
